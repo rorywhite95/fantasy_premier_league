@@ -28,7 +28,13 @@ Answers:
 .
 
 1 Manchester City
+
+.
+
 2 Chelsea
+
+.
+
 3 Arsenal
 
 
