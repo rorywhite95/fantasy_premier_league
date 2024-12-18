@@ -1,3 +1,4 @@
-# fpl
+# Fantasy Premier League
 
-![fpl bubbles](https://github.com/user-attachments/assets/26217448-824a-4d06-afbb-97ebc2d022c7)
+![PointsToMinutes scatter](https://github.com/user-attachments/assets/9834eb1d-0384-4213-b9e6-0588c723336f)
+
