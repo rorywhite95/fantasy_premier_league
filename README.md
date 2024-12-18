@@ -1,6 +1,6 @@
 # Fantasy Premier League
 
-Built using PowerBI and Excel
+Analysis of the 23/24 FPL Season, built using PowerBI and Excel
 
 ![PointsToMinutes scatter](https://github.com/user-attachments/assets/9834eb1d-0384-4213-b9e6-0588c723336f)
 
