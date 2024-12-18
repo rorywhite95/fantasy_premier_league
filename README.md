@@ -10,13 +10,13 @@ Analysis of the 23/24 FPL Season, built using PowerBI and Excel
 
 ![points to price](https://github.com/user-attachments/assets/cc0308bf-e8e6-46a5-b3e6-e444b002ccd4)
 
-1.
+1)
 ![guess the team](https://github.com/user-attachments/assets/325cf11e-eeba-4141-a633-94d5e613dd92)
 
-2.
+2)
 ![guess the team chelsea](https://github.com/user-attachments/assets/db3a32cf-4ba1-4573-839a-f8da695410d9)
 
-3.
+3)
 ![guess the team arsenal](https://github.com/user-attachments/assets/bff96161-7268-4205-a70a-920fb382c015)
 
 Answers:
@@ -27,14 +27,14 @@ Answers:
 
 .
 
-1 Manchester City
+1) Manchester City
 
 .
 
-2 Chelsea
+2) Chelsea
 
 .
 
-3 Arsenal
+3) Arsenal
 
 
