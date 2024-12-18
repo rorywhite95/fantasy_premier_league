@@ -6,6 +6,10 @@ Analysis of the 23/24 FPL Season, built using PowerBI and Excel
 
 ![cumulative points](https://github.com/user-attachments/assets/ce66e3b1-d663-4a47-83d3-d6cca25283f8)
 
+![box plot](https://github.com/user-attachments/assets/d60d8056-46d2-4119-ae4e-506797122967)
+
+![points to price](https://github.com/user-attachments/assets/cc0308bf-e8e6-46a5-b3e6-e444b002ccd4)
+
 1.
 ![guess the team](https://github.com/user-attachments/assets/325cf11e-eeba-4141-a633-94d5e613dd92)
 
@@ -15,13 +19,14 @@ Analysis of the 23/24 FPL Season, built using PowerBI and Excel
 3.
 ![guess the team arsenal](https://github.com/user-attachments/assets/bff96161-7268-4205-a70a-920fb382c015)
 
-Answers at the bottom of the page...
-
-![box plot](https://github.com/user-attachments/assets/d60d8056-46d2-4119-ae4e-506797122967)
-
-![points to price](https://github.com/user-attachments/assets/cc0308bf-e8e6-46a5-b3e6-e444b002ccd4)
-
 Answers:
+
+.
+
+.
+
+.
+
 1 Manchester City
 2 Chelsea
 3 Arsenal
