@@ -2,22 +2,28 @@
 
 Analysis of the 23/24 FPL Season, built using PowerBI and Excel
 
-![PointsToMinutes scatter](https://github.com/user-attachments/assets/9834eb1d-0384-4213-b9e6-0588c723336f)
+![fpl1](https://github.com/user-attachments/assets/c336bf38-b7e5-4c09-9df6-5f3d69e6abd1)
 
-![cumulative points](https://github.com/user-attachments/assets/ce66e3b1-d663-4a47-83d3-d6cca25283f8)
 
-![box plot](https://github.com/user-attachments/assets/d60d8056-46d2-4119-ae4e-506797122967)
+![fpl2](https://github.com/user-attachments/assets/c256bfc5-eac1-427c-b6ef-3b6599e74c39)
 
-![points to price](https://github.com/user-attachments/assets/cc0308bf-e8e6-46a5-b3e6-e444b002ccd4)
+
+![fpl3](https://github.com/user-attachments/assets/cdaa3076-5ced-48f1-ba44-9d6b353a454e)
+
+
+![fpl4](https://github.com/user-attachments/assets/f27c8169-29d6-4979-88e0-4193286cc899)
+
 
 1)
-![guess the team](https://github.com/user-attachments/assets/325cf11e-eeba-4141-a633-94d5e613dd92)
+![fpl5](https://github.com/user-attachments/assets/6f50caf0-9aca-4e08-8656-89db4f39f189)
 
 2)
-![guess the team chelsea](https://github.com/user-attachments/assets/db3a32cf-4ba1-4573-839a-f8da695410d9)
+![fpl6](https://github.com/user-attachments/assets/e1dc9b07-db30-448a-9b6a-efa9a8fad5d2)
+
 
 3)
-![guess the team arsenal](https://github.com/user-attachments/assets/bff96161-7268-4205-a70a-920fb382c015)
+![fpl7](https://github.com/user-attachments/assets/caf57f83-ea8e-40cc-b143-e17c85702ca5)
+
 
 Answers:
 
